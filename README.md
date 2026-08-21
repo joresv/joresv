@@ -63,15 +63,21 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/joresv/joresv/output/metrics.svg" alt="Jores's GitHub stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joresv&theme=tokyonight" alt="Jores's GitHub stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joresv&theme=tokyonight" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joresv&theme=tokyonight" alt="Productive Time"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joresv&theme=tokyonight" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joresv&theme=tokyonight" alt="Most Commit Language"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=joresv&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/joresv/joresv/output/achievements.svg" alt="Achievements"/>
 </p>
 
 <p align="center">
