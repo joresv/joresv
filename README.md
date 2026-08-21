@@ -9,11 +9,11 @@
 ### 🙋‍♂️ About Me
 
 - 🚀 **Senior Developer** with **7+ years of experience** — Fullstack (**React / Next.js / NestJS**) & Mobile cross-platform (**Flutter**)
-- 👨‍💼 **Tech Lead @ [Crina Studio](https://crinastudio.com)** : supervising dev teams, code reviews & software quality
+- 👨‍💼 **Tech Lead @ <a href="https://crinastudio.com" target="_blank" rel="noopener noreferrer">Crina Studio</a>** : supervising dev teams, code reviews & software quality
 - 🏛️ Passionate about **modern engineering**: Clean Architecture, Hexagonal Architecture, CQRS, SOLID principles
 - 🌱 I mentor juniors & interns to help them land their first professional role
 - ⚙️ **CI/CD** automation with GitHub Actions & **AI-augmented development**
-- 🎥 I run a YouTube channel [**@OnProgramme**](https://www.youtube.com/@OnProgramme) in my spare time
+- 🎥 I run a YouTube channel <a href="https://www.youtube.com/@OnProgramme" target="_blank" rel="noopener noreferrer"><strong>@OnProgramme</strong></a> in my spare time
 - 🌍 Based in **Yaoundé, Cameroon** — open to **remote work only**
 - ⚡ Fun fact: I love turning ideas into scalable, maintainable software
 
@@ -22,15 +22,15 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <a href="https://flutter.dev" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/></a>
-  <a href="https://dart.dev" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/></a>
-  <a href="https://nestjs.com" target="_blank"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/></a>
-  <a href="https://react.dev" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/></a>
-  <a href="https://nextjs.org" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/></a>
+  <a href="https://flutter.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/></a>
+  <a href="https://dart.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/></a>
+  <a href="https://nestjs.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/></a>
+  <a href="https://react.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/></a>
+  <a href="https://nextjs.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/></a>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-  <a href="https://firebase.google.com" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/></a>
-  <a href="https://laravel.com" target="_blank"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/></a>
+  <a href="https://firebase.google.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/></a>
+  <a href="https://laravel.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/></a>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
 </p>
@@ -83,20 +83,49 @@
 
 ### 🏆 Featured Projects
 
-| Project | Description | Stars |
-|---------|-------------|:-----:|
-| [**article**](https://github.com/joresv/article) | Flutter article app | ![Stars](https://img.shields.io/github/stars/joresv/article?style=social) |
-| [**flutter_web_chat**](https://github.com/joresv/flutter_web_chat) | Chat app built with Flutter Web | ![Stars](https://img.shields.io/github/stars/joresv/flutter_web_chat?style=social) |
-| [**flutter_firebase**](https://github.com/joresv/flutter_firebase) | Flutter + Firebase integration | ![Stars](https://img.shields.io/github/stars/joresv/flutter_firebase?style=social) |
-| [**flutter_firebase_sms_otp**](https://github.com/joresv/flutter_firebase_sms_otp) | SMS OTP authentication with Firebase | ![Stars](https://img.shields.io/github/stars/joresv/flutter_firebase_sms_otp?style=social) |
-| [**squid_game_shop**](https://github.com/joresv/squid_game_shop) | Squid Game themed shop UI | ![Stars](https://img.shields.io/github/stars/joresv/squid_game_shop?style=social) |
-| [**stepper-form**](https://github.com/joresv/stepper-form) | Multi-step form in Flutter | ![Stars](https://img.shields.io/github/stars/joresv/stepper-form?style=social) |
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Stars</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/joresv/article" target="_blank" rel="noopener noreferrer"><strong>article</strong></a></td>
+    <td>Flutter article app</td>
+    <td><a href="https://github.com/joresv/article/stargazers" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/stars/joresv/article?style=social" alt="Stars"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/joresv/flutter_web_chat" target="_blank" rel="noopener noreferrer"><strong>flutter_web_chat</strong></a></td>
+    <td>Chat app built with Flutter Web</td>
+    <td><a href="https://github.com/joresv/flutter_web_chat/stargazers" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/stars/joresv/flutter_web_chat?style=social" alt="Stars"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/joresv/flutter_firebase" target="_blank" rel="noopener noreferrer"><strong>flutter_firebase</strong></a></td>
+    <td>Flutter + Firebase integration</td>
+    <td><a href="https://github.com/joresv/flutter_firebase/stargazers" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/stars/joresv/flutter_firebase?style=social" alt="Stars"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/joresv/flutter_firebase_sms_otp" target="_blank" rel="noopener noreferrer"><strong>flutter_firebase_sms_otp</strong></a></td>
+    <td>SMS OTP authentication with Firebase</td>
+    <td><a href="https://github.com/joresv/flutter_firebase_sms_otp/stargazers" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/stars/joresv/flutter_firebase_sms_otp?style=social" alt="Stars"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/joresv/squid_game_shop" target="_blank" rel="noopener noreferrer"><strong>squid_game_shop</strong></a></td>
+    <td>Squid Game themed shop UI</td>
+    <td><a href="https://github.com/joresv/squid_game_shop/stargazers" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/stars/joresv/squid_game_shop?style=social" alt="Stars"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/joresv/stepper-form" target="_blank" rel="noopener noreferrer"><strong>stepper-form</strong></a></td>
+    <td>Multi-step form in Flutter</td>
+    <td><a href="https://github.com/joresv/stepper-form/stargazers" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/stars/joresv/stepper-form?style=social" alt="Stars"/></a></td>
+  </tr>
+</table>
 
 ---
 
 ### 🎥 YouTube Channel
 
-<a href="https://www.youtube.com/@OnProgramme?sub_confirmation=1">
+<a href="https://www.youtube.com/@OnProgramme?sub_confirmation=1" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Subscribe-%40OnProgramme-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe"/>
 </a>
 
@@ -105,10 +134,10 @@
 ### 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://portfolio.paylood.com"><img src="https://img.shields.io/badge/Portfolio-paylood.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/jores-tala/"><img src="https://img.shields.io/badge/LinkedIn-jores--tala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.youtube.com/@OnProgramme"><img src="https://img.shields.io/badge/YouTube-%40OnProgramme-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <a href="https://twitter.com/JoresTala"><img src="https://img.shields.io/badge/Twitter-%40JoresTala-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://portfolio.paylood.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-paylood.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/jores-tala/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-jores--tala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.youtube.com/@OnProgramme" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-%40OnProgramme-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://twitter.com/JoresTala" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-%40JoresTala-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
   <a href="mailto:jorestala16@gmail.com"><img src="https://img.shields.io/badge/Gmail-jorestala16%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
@@ -116,4 +145,4 @@
   <img src="https://komarev.com/ghpvc/?username=joresv&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
 </p>
 
-⭐️ From [joresv](https://github.com/joresv)
+⭐️ From <a href="https://github.com/joresv" target="_blank" rel="noopener noreferrer">joresv</a>
