@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Jores Tala 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=650&lines=Senior+Fullstack+Developer+(NestJS+%2F+React);Mobile+Developer+%F0%9F%93%B1+Flutter+Enthusiast;Tech+Lead+%40+Crina+Studio;Content+Creator+%40OnProgramme+%F0%9F%8E%A5;From+Yaound%C3%A9%2C+Cameroon+%F0%9F%87%A8%F0%9F%87%B2" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=650&lines=Senior+Fullstack+Developer+(NestJS+%2F+React);Mobile+Developer+%F0%9F%93%B1+Flutter+Enthusiast;Senior+Dev+%40+Crina+Studio;Content+Creator+%40OnProgramme+%F0%9F%8E%A5;From+Yaound%C3%A9%2C+Cameroon+%F0%9F%87%A8%F0%9F%87%B2" alt="Typing SVG" />
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ### 🙋‍♂️ About Me
 
 - 🚀 **Senior Developer** with **7+ years of experience** — Fullstack (**React / Next.js / NestJS**) & Mobile cross-platform (**Flutter**)
-- 👨‍💼 **Tech Lead @ <a href="https://crinastudio.com" target="_blank" rel="noopener noreferrer">Crina Studio</a>** : supervising dev teams, code reviews & software quality
+- 👨‍💻 **Senior Developer @ <a href="https://crinastudio.com" target="_blank" rel="noopener noreferrer">Crina Studio</a>** : end-to-end web & mobile apps, code reviews & software quality
 - 🏛️ Passionate about **modern engineering**: Clean Architecture, Hexagonal Architecture, CQRS, SOLID principles
 - 🌱 I mentor juniors & interns to help them land their first professional role
 - ⚙️ **CI/CD** automation with GitHub Actions & **AI-augmented development**
@@ -53,7 +53,7 @@
 ### 💼 Career Timeline
 
 ```text
-2022 - Now   Tech Lead & Fullstack/Mobile Dev @ Crina Studio
+2022 - Now   Senior Fullstack & Mobile Developer @ Crina Studio
 2021 - 2022  Flutter Developer @ GOHZE
 2019 - 2021  Flutter Developer @ Kernel SARL (Kernel Travel)
 ```
@@ -63,8 +63,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joresv&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" alt="Jores's GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joresv&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Langs"/>
+  <img src="https://raw.githubusercontent.com/joresv/joresv/output/metrics.svg" alt="Jores's GitHub stats"/>
 </p>
 
 <p align="center">
@@ -72,7 +71,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joresv&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies"/>
+  <img src="https://raw.githubusercontent.com/joresv/joresv/output/achievements.svg" alt="Achievements"/>
 </p>
 
 <p align="center">
